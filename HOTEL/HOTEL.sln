@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotel", "hotel\hotel.csproj", "{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|hotel_rr = Debug|hotel_rr
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		hotel_A1|Any CPU = hotel_A1|Any CPU
+		hotel_A1|hotel_rr = hotel_A1|hotel_rr
+		hotel_A1|x64 = hotel_A1|x64
+		hotel_A1|x86 = hotel_A1|x86
+		hotel_ben_yedder|Any CPU = hotel_ben_yedder|Any CPU
+		hotel_ben_yedder|hotel_rr = hotel_ben_yedder|hotel_rr
+		hotel_ben_yedder|x64 = hotel_ben_yedder|x64
+		hotel_ben_yedder|x86 = hotel_ben_yedder|x86
+		Release|Any CPU = Release|Any CPU
+		Release|hotel_rr = Release|hotel_rr
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Debug|hotel_rr.ActiveCfg = Debug|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Debug|hotel_rr.Build.0 = Debug|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Debug|x64.Build.0 = Debug|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Debug|x86.Build.0 = Debug|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_A1|Any CPU.ActiveCfg = hotel_A1|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_A1|Any CPU.Build.0 = hotel_A1|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_A1|hotel_rr.ActiveCfg = hotel_A1|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_A1|hotel_rr.Build.0 = hotel_A1|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_A1|x64.ActiveCfg = Debug|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_A1|x64.Build.0 = Debug|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_A1|x86.ActiveCfg = hotel_A1|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_A1|x86.Build.0 = hotel_A1|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_ben_yedder|Any CPU.ActiveCfg = hotel_ben_yedder|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_ben_yedder|Any CPU.Build.0 = hotel_ben_yedder|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_ben_yedder|hotel_rr.ActiveCfg = hotel_ben_yedder|x86
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_ben_yedder|hotel_rr.Build.0 = hotel_ben_yedder|x86
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_ben_yedder|x64.ActiveCfg = hotel_ben_yedder|x86
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_ben_yedder|x64.Build.0 = hotel_ben_yedder|x86
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_ben_yedder|x86.ActiveCfg = hotel_ben_yedder|x86
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.hotel_ben_yedder|x86.Build.0 = hotel_ben_yedder|x86
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Release|hotel_rr.ActiveCfg = Release|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Release|hotel_rr.Build.0 = Release|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Release|x64.ActiveCfg = Release|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Release|x64.Build.0 = Release|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Release|x86.ActiveCfg = Release|Any CPU
+		{C2EA1C1B-CBFF-45D9-A16B-9A5F4DC44BB9}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
